@@ -17,7 +17,7 @@ Works in Claude Code, Codex, and the ~75 other agents the
 [skills CLI](https://github.com/vercel-labs/skills) supports:
 
 ```bash
-npx skills add megaterium/gtd-email -a claude-code -a codex
+npx skills add megaterium/jevTD-email -a claude-code -a codex
 ```
 
 Drop the `-a` flags to choose agents interactively. Skills are plain
